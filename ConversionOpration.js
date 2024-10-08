@@ -23,3 +23,11 @@ let Value = 3;
 let negitiveValue = -Value;
 
 console.log(negitiveValue);
+
+// Complex Operation
+
+console.log(1 + "2");
+console.log("1" + 2);
+console.log("1" + 2 + 2);
+console.log(1 + 2 + "2");
+

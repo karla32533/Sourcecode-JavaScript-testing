@@ -15,3 +15,11 @@ let valueInNumber = Number(score);
 console.log(typeof(valueInNumber));
 
 console.log(valueInNumber) // NaN means not a Number
+
+
+// ********************************* Operations ************************************
+
+let Value = 3;
+let negitiveValue = -Value;
+
+console.log(negitiveValue);

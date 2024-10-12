@@ -5,10 +5,10 @@
 
 // Code readablity that should be height
 
-let name = "Hello ";
-let age = 18;
-let isLoggedIn = false;
-let state;
+// let name = "Hello ";
+// let age = 18;
+// let isLoggedIn = false;
+// let state;
 
 // number => 2 to power 53
 // bigint
@@ -21,7 +21,14 @@ let state;
 
 // object 
 
-console.log(typeof undefined) //undefined
-console.log(typeof null) // object 
+// console.log(typeof undefined) //undefined
+// console.log(typeof null) // object 
 
 
+let dict = {
+    name:"dkmmg",
+    age: 10,
+    class: "12th",
+    villege: "Pipariya "
+}
+console.table(dict)
